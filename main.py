@@ -4,7 +4,7 @@ import os
 import shutil
 
 # Path for the files to be organized
-FILE_PATH = "File_Organizer/test" #Change this path before running
+FILE_PATH = "test" #Change this path before running
 
 # Create a directory if it does not already exist
 def create_dir(dir_path):
